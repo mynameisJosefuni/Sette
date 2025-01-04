@@ -1,9 +1,8 @@
 {
     "servers": [
         {
-            "name": "Mynameisjose",
-            "address": "https://myanisette-jt3d.onrender.com"
-        },
-  
+            "name": "[as above]",
+            "address": "[also as above]"
+        }
     ]
 }
